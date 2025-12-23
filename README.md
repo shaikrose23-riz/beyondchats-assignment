@@ -110,3 +110,8 @@ POST http://localhost:5000/rewrite/1
 Fetch All Articles
 GET http://127.0.0.1:8000/api/articles
 
+## Architecture / Data Flow
+
+Below is the data flow of the project:
+
+![Architecture Diagram](assets/architecture-diagram.png)
